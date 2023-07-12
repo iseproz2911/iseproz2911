@@ -13,9 +13,11 @@ Database : SQL server , Firebase , My SQL. (Mongo soon)
 ---
 Operating Systems : Linux(ubuntu), KaliLinux, Windows
 ---
-Intro to Cyber Security : Malware , Gone Phishing, PassWork Attack
+Intro to Cyber Security : Malware , Gone Phishing, PassWork Attack, SQL Inject , DDoS, NmapScan.
 ---
-Security Approches: Configuration of Firewalls , Vulnerabillity Analysis ,Security for all webmail, including attachments and possible phishing scams.
+Security Approches: Penetration Testing, Access Control, Cryptography, Risk Assessment and Analysis, Security Policies
+---
+Training : https://picoctf.org/
 ---
 Tools : 
   Web Pentest : Burp Suite 
